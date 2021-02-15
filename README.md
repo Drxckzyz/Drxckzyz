@@ -4,11 +4,12 @@
 
 * Typesript
 * React
+* Python
 
 ## Current projects:
 
-* A TypeScript Discord library
-* A Javascript Discord library
+* [Tscord](https://github.com/Drxckzyz/tscord):  TypeScript Discord library
+* [Jscord](https://github.com/Drxckzyz): Javascript Discord library
 * [DrSanta](https://dsc.gg/dsanta): An easy to use giveaway bot
 * Rarecraft: An epic minecraft economy bot!
 
