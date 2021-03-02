@@ -8,8 +8,8 @@
 
 ## Current projects:
 
-* [Tscord](https://github.com/Drxckzyz/tscord): A TypeScript Discord library
-* [Jscord](https://github.com/Drxckzyz): A Javascript Discord library
+* [Dencord](https://github.com/Drxckzyz/dencord): A Deno Discord library
+* [Jscord](https://github.com/Drxckzyz/jscord): A Nodejs Discord library
 * [DrSanta](https://dsc.gg/dsanta): An easy to use giveaway bot
 * Rarecraft: An epic minecraft economy bot!
 
