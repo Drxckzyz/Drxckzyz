@@ -12,6 +12,7 @@
 * MongoDB
 * Redis
 * Serenity
+* Postgresql
 * Eris
 * Discord.js
 * Express
